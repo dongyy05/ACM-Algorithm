@@ -1,0 +1,9 @@
+// This is next_permutation illustratation
+
+/**
+template <class BidirIt>
+bool next_permutation( BidirIt first, BidirIt last );
+
+template <class BidirIt, class Compare>
+bool next_permutation( BidirIt first, BidirIt last, Compare comp );
+**/
